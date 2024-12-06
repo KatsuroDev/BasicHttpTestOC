@@ -1,5 +1,4 @@
     -- https://github.com/kikito/inspect.lua/blob/master/inspect.lua
-    local inspect = require("inspect")
     local internet = require("internet")
 
     local args = {...}
